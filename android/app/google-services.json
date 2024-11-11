@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "737205349718",
+    "firebase_url": "https://alumnos-prueba-841ae-default-rtdb.firebaseio.com",
+    "project_id": "alumnos-prueba-841ae",
+    "storage_bucket": "alumnos-prueba-841ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737205349718:android:781e749c1b76d73d2b7af7",
+        "android_client_info": {
+          "package_name": "com.tsjjoaquin.produccionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAETmEfZZxca9qAMKWenL0A7Q9mA5F3csc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
